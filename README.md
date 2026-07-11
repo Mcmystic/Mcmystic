@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mcmystic
 - 👀 I’m interested in web dev, app dev. 
-- 🌱 I’m currently learning html, css, JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently data Analysis
+- 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me : bosankajang@gmail.com
 
 <!---
